@@ -30,6 +30,8 @@ Basta adentrar a cada diretório e digitar:
 yarn
 ```
 
+## Executar as aplicações
+
 Para rodar as aplicações front-end:
 
 ```
